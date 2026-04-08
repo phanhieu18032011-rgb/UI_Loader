@@ -326,7 +326,7 @@ function Library:Window(Args)
         Position = UDim2.new(0.5, 0, 0.5, 0),
         Size = UDim2.new(1, 120, 1, 120),
         ZIndex = 0,
-        Image = "rbxassetid://8992230677",
+        Image = "rbxassetid://117494469075543",
         ImageColor3 = Color3.fromRGB(0, 0, 0),
         ImageTransparency = 0.5,
         ScaleType = Enum.ScaleType.Slice,
@@ -355,7 +355,7 @@ function Library:Window(Args)
         BorderSizePixel = 0,
         Position = UDim2.new(0, 25, 0.5, 1),
         Size = UDim2.new(0, 27, 0, 27),
-        Image = "rbxassetid://130391877219356",
+        Image = "rbxassetid://117494469075543",
         ImageColor3 = Color3.fromRGB(255, 0, 127),
         Visible = false
     })
